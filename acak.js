@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="/2017/10/10-tips-to-ensure-pcb-assembly-success.html"}
 if(x=="2"){xxx="/2017/10/building-successful-multi-layer-printed.html"}
 if(x=="3"){xxx="/2017/10/hand-routing-vs-using-automated-router.html"}
-if(x=="4"){xxx="/10/high-speed-pcb-design-considerations.html"}
+if(x=="4"){xxx="/2017/10/high-speed-pcb-design-considerations.html"}
 if(x=="5"){xxx="/2017/10/manufacturing-process-of-printed.html"}a_to_ve[i].href="http://www.pcbtoolsfile.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
